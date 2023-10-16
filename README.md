@@ -1,6 +1,6 @@
 # AirBnB Clone - The Console
 
-**Project:** 0x00. AirBnB Clone - The Console | **By:** Guillaume  
+**Project:** 0x00. AirBNB Clone - The Console | **By:** Guillaume  
 **Weight:** 5 | **Project Duration:** Aug 7, 2023 4:00 AM - Aug 14, 2023 4:00 AM  
 **Team Members:** Badreddine Bentiah, Nour MELLAL
 
